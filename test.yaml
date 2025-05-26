@@ -4,4 +4,4 @@ metadata:
  name: my-secret
 type: Opaque
 data:
- password: my-awesome-password
+ password: bXktYXdlc29tZS1wYXNzd29yZA==

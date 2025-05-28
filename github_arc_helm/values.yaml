@@ -4,7 +4,7 @@
 
 labels: {}
 
-replicaCount: 2
+replicaCount: 1
 
 webhookPort: 9443
 syncPeriod: 1m
